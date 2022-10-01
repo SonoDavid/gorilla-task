@@ -2,3 +2,5 @@ notebook
 pandas
 pandasql
 openpyxl
+tqdm
+matplotlib
